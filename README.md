@@ -3,7 +3,12 @@
 I'm Rober Díaz a Software Engineer.
 
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I love Disney/Pixar productions 🏰. Pizza lover 🍕
+- ⚡ Fun facts:
+  - I love Disney/Pixar productions 🏰
+  - I'm a Pizza lover 🍕
+  - My favorite movie is Forrest Gump 🏃, second one is Back to Future 🚗 (I'm not Robert Zemeckis's fan)
+  - Back in my 20s, I ran a video rental joint for about two years, I basically watched like 1000 movies 🎥
+  - When I'm not programming, I'm with my family 😄👨‍💻👨‍👩‍👧‍👦
 <!--
 **rad8329/rad8329** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
