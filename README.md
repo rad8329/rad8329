@@ -1,3 +1,5 @@
 ### Hi there 👋
 
-I’m Rober Díaz, a software engineer focused on turning complex legacy systems into high-performance, adaptable platforms. These days, I’m building autonomous AI agents, paying close attention to reliability, strong test coverage, and architectures that can handle rapid change in startup environments.
+I'm Rober Díaz, a backend engineer focused on building scalable APIs and modernizing legacy systems into reliable, high-performance platforms.
+
+My primary stack is PHP (Laravel), and I’ve also worked with Node.js and distributed backend systems. I care a lot about performance, observability, and making systems behave predictably in production.
